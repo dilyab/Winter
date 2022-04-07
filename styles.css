@@ -1,0 +1,155 @@
+body {
+background-image: url(fon1.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+
+.bullet {
+  background-color:inherit ;
+  padding-bottom: 0px;
+  padding-top: 10px;
+}
+
+#bullet1 {
+  font-size: 1.5rem;
+  position:relative;
+  left: 220px;
+  bottom: 6px;
+  background-color:inherit;
+  border-radius: 5px;
+  border-color: inherit;
+  color:#212F3D;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 100px;
+  padding-left: 50px;
+  border-width: 0px;
+}
+
+#bullet2 {
+font-size: 1.5rem;
+position: relative;
+left: 350px;
+bottom: 7px;
+background-color:inherit;
+border-radius: 5px;
+border-color: inherit;
+color:#212F3D;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-right: 100px;
+padding-left: 100px;
+border-width: 0px;
+}
+
+#bullet3 {
+font-size: 1.5rem;
+position: relative;
+left: 450px;
+bottom: 6px;
+background-color:inherit;
+border-radius: 5px;
+border-color: inherit;
+color:#212F3D;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-right: 100px;
+padding-left: 100px;
+border-width: 0px;
+}
+.pr {
+margin-left: 200px;
+margin-right: 200px;
+}
+
+ #line {
+position: relative;
+right: 220px;
+
+ }
+.img1 {
+margin-left: 430px;
+margin-right: 380px;
+float:left;
+}
+.p1 {
+  position: relative;
+  padding-top: 8px;
+}
+#button {
+  font-size: 2rem;
+  border-radius:15px;
+  border-color: inherit;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 20px;
+  padding-left: 20px;
+  background-color: white;
+}
+
+.trysilp {
+  position: relative;
+  padding-top: 15px;
+}
+
+.gailop {
+  position: relative;
+  padding-top: 15px;
+}
+.trusil {
+  margin-left: 100px;
+  margin-right: 100px;
+  background-color: white;
+  border-radius: 50px;
+  padding-top: 7px;
+  padding-bottom: 75px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+.geilo {
+  margin-left: 100px;
+  margin-right: 50px;
+  background-color: white;
+  border-radius: 50px;
+  padding-top: 10px;
+  padding-bottom: 75px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.fon {
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+
+.table {
+  margin-left: 165px;
+}
+
+.contacts {
+  font-size: 1rem;
+  padding-top: 10px;
+  padding-left: 620px;
+}
+.gmail {
+ position: relative;
+ right: 220px;
+}
+
+.inst {
+  position: relative;
+  right: 220px;
+}
+
+.faceb {
+  position: relative;
+  right: 220px;
+}
+
+.pnum {
+  position: relative;
+  left: 200px;
+  bottom: 57px;
+}
